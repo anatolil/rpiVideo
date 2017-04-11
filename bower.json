@@ -1,0 +1,21 @@
+{
+  "name": "rpivideo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Anatoli Lipiäinen"
+  ],
+  "license": "MIT",
+  "homepage": "www.github.com/anatolil/rpivideo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
